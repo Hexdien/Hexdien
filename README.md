@@ -1,9 +1,9 @@
 
 # Henrique Amendola 👋
 
-🇧🇷 Brazil  
-💻 Software Engineer | Backend & Security Oriented  
-🎯 Focused on clean architecture, system design and secure APIs
+🇧🇷 Brazil 
+🎯 Penetration Testing Student
+🎯 Offensive Security Student
 
 ---
 
