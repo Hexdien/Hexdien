@@ -2,7 +2,9 @@
 # Henrique Amendola 👋
 
 🇧🇷 Brazil 
+
 🎯 Penetration Testing Student
+
 🎯 Offensive Security Student
 
 ---
