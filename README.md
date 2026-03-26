@@ -3,12 +3,6 @@
 
 🇧🇷 Brazil 
 
-🎯 Penetration Testing Student
-
-🎯 Offensive Security Student
-
----
-
 ## Segurança Ofensiva | Pentest
 
 - 40+ labs concluídos (TryHackMe)
@@ -41,14 +35,14 @@
 
 ---
 
-### Security & Networking
+### Segurança e Rede
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 ![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### OS Knowledge
+### Conhecimento de SOs
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
