@@ -9,17 +9,12 @@
 
 ---
 
-## 🧠 What I do
+## Segurança Ofensiva | Pentest
 
-- 🔐 Study and practice **Offensive & Defensive Security**
-- 🧩 Design systems with **clean architecture & clear domain rules**
-- ☕ Build **Java APIs with Spring Boot**
-- 🧠 Model business logic before writing code
-- 🗄️ Work with relational databases and migrations
-- 🐧 Daily Linux user (Arch Linux)
-- 📚 Long-term learner with a disciplined study routine
-- 🛠️ Build tools to **track learning, productivity and progress**
-
+- 40+ labs concluídos (TryHackMe)
+- Foco em exploração web e privilege escalation
+- Scripts em Python e Bash para automação
+- Estudando redes, Linux e vulnerabilidades reais
 ---
 
 ## 🛠️ Tech Stack
