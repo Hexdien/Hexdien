@@ -80,7 +80,7 @@
 
 | Repo | Descrição |
 |---|---|
-| [DOTFILES](https://github.com/Hexdien/DOTFILES) | Configurações de ambiente para hacking |
+| [DOTFILES](https://github.com/Hexdien/DOTFILES) | Configurações de ambiente para dev |
 
 ---
 
