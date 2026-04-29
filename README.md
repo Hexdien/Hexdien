@@ -36,7 +36,7 @@
 | **Web Exploitation** | SQLi, XSS, IDOR, SSRF, File Upload, Auth Bypass |
 | **Privilege Escalation** | Linux PrivEsc, SUID/GUID, Cron Jobs, Sudo Misconfig |
 | **Reconhecimento** | OSINT, Enumeração de serviços, Fingerprinting |
-| **Scripting** | Automação de exploits em Python e Bash |
+| **Scripting** | Automação de exploits em Python e Shell script |
 | **Redes** | Análise de tráfego, Port scanning, Protocolos |
 
 ---
