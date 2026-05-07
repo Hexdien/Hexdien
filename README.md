@@ -65,8 +65,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexdien&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6633&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hexdien&theme=dark&hide_border=true&background=0d1117&fire=FF6633&ring=FF6633&currStreakLabel=FF6633)
 
 
